@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-That's not so important, so it's not stored in a database, it's just counted by a [glitch.com](https://glitch.com/) application.
+That's not so important, so it's just in a sqlite db, counted by a [glitch.com](https://glitch.com/) application.
 
 The application which was created by [ryanlanciaux](https://github.com/ryanlanciaux) who wrote about it on [dev.to](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en)
 

@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-That comes from a sqlite db, counted by a [glitch.com](https://glitch.com/) application.
+That comes from a sqlite db, counted by a [glitch.com](https://glitch.com/) application. If it doesn't load, you probably just woke the application up, so refresh.
 
 The application which was created by [ryanlanciaux](https://github.com/ryanlanciaux) who wrote about it on [dev.to](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en). I just added support for sqlite to hopefully create a persistent count.
 

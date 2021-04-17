@@ -1,34 +1,13 @@
-### Hi there, I'm Mark 👋
+<h2 align="center">Hi 👋, I am Mark</h2>
 
-- 🔭 I’m generally working on **django** projects
-- 🌱 I’m currently learning how best to design and deploy a **django-cms** application utilising the sites framework
-- 👯 I’m looking to collaborate on **anything intertesting**.
+<p align="center">
+  <a href="https://markw.co.uk/">Website</a> • 
+  <a href="https://twitter.com/markwalker_">Twitter</a> •  
+  <a href="https://stackoverflow.com/users/1199464/markwalker">StackOverflow</a> • 
+  <a href="https://www.linkedin.com/in/markwalker1/">LinkedIn</a>
+</p>
 
-
-<table>
-  <tr>
-    <td>You're visitor number</td>
-  </tr
-  <tr>
-    <td><img src="https://gh-marksweb-counter.glitch.me/count.svg" alt="" /></td>
-  </tr>
-</table>
-
-That comes from a sqlite db, counted by a [glitch.com](https://glitch.com/) application. If it doesn't load, you probably just woke the application up, so refresh.
-
-The application which was created by [ryanlanciaux](https://github.com/ryanlanciaux) who wrote about it on [dev.to](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en). I just added support for sqlite to hopefully create a persistent count.
-
-<!--
-**marksweb/marksweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://markw.co.uk/"><img src="https://github-readme-stats.vercel.app/api?username=marksweb&show_icons=true&hide=stars" alt="My GitHub Stats" /></a>
+  <a href="https://markw.co.uk/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksweb&layout=compact" alt="My Languages" /></a>
+</p>
